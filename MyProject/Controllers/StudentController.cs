@@ -34,10 +34,5 @@ namespace MyProject.Controllers
         {
         }
 
-        // DELETE api/<StudentController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }
